@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c8f064c-4739-45bf-9a29-d037194a3b6d" name="Changes" comment="afhkasf">
+    <list default="true" id="4c8f064c-4739-45bf-9a29-d037194a3b6d" name="Changes" comment="aa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Learning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Learning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,7 @@
       <workItem from="1713265635640" duration="7000000" />
       <workItem from="1713273671472" duration="965000" />
       <workItem from="1713332957407" duration="357000" />
-      <workItem from="1713354027591" duration="2027000" />
+      <workItem from="1713354027591" duration="2701000" />
     </task>
     <task id="LOCAL-00001" summary="afhkasf">
       <option name="closed" value="true" />
@@ -135,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713354771991</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aa">
+      <option name="closed" value="true" />
+      <created>1713356316787</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713356316787</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="afhkasf" />
-    <option name="LAST_COMMIT_MESSAGE" value="afhkasf" />
+    <MESSAGE value="aa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aa" />
   </component>
 </project>
