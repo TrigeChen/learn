@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c8f064c-4739-45bf-9a29-d037194a3b6d" name="Changes" comment="aa">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_392/Contents/Home/src.zip!/java/lang/NullPointerException.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -42,11 +47,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Add.executor": "Run",
     "Application.Learning.executor": "Run",
     "Application.PrimeNumberMerge.executor": "Run",
     "Application.Solution1.executor": "Run",
     "Application.Solution2.executor": "Run",
     "Application.Soultion3.executor": "Run",
+    "Application.selectSort.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -56,11 +63,18 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Learning">
+  <component name="RunManager" selected="Application.Add">
+    <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Add" />
+      <module name="solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Learning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Learning" />
       <module name="solution" />
@@ -75,20 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution1" />
-      <module name="solution" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution2" />
-      <module name="solution" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Soultion3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Soultion3" />
       <module name="solution" />
@@ -96,13 +96,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="selectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selectSort" />
+      <module name="solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Add" />
+        <item itemvalue="Application.selectSort" />
         <item itemvalue="Application.Learning" />
         <item itemvalue="Application.PrimeNumberMerge" />
         <item itemvalue="Application.Soultion3" />
-        <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.Solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +131,10 @@
       <workItem from="1713265635640" duration="7000000" />
       <workItem from="1713273671472" duration="965000" />
       <workItem from="1713332957407" duration="357000" />
-      <workItem from="1713354027591" duration="2701000" />
+      <workItem from="1713354027591" duration="3341000" />
+      <workItem from="1713767395382" duration="6871000" />
+      <workItem from="1717329024842" duration="881000" />
+      <workItem from="1719145905445" duration="761000" />
     </task>
     <task id="LOCAL-00001" summary="afhkasf">
       <option name="closed" value="true" />
@@ -142,7 +152,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713356316787</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="aa">
+      <option name="closed" value="true" />
+      <created>1713356874724</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713356874724</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aa">
+      <option name="closed" value="true" />
+      <created>1713356897209</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713356897209</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,5 +189,9 @@
     <MESSAGE value="afhkasf" />
     <MESSAGE value="aa" />
     <option name="LAST_COMMIT_MESSAGE" value="aa" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
