@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c8f064c-4739-45bf-9a29-d037194a3b6d" name="Changes" comment="aa">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ShangLearn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Learning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Learning.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,16 +30,47 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="abc" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;TrigeChen&quot;,
+      &quot;reviewState&quot;: &quot;NO_REVIEW&quot;,
+      &quot;author&quot;: &quot;TrigeChen&quot;,
+      &quot;label&quot;: &quot;bug&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TrigeChen&quot;,
+    &quot;reviewState&quot;: &quot;NO_REVIEW&quot;,
+    &quot;author&quot;: &quot;TrigeChen&quot;,
+    &quot;label&quot;: &quot;bug&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:TrigeChen/learn.git&quot;,
+    &quot;accountId&quot;: &quot;01e54501-b41a-4e63-b2ad-65e9a9ddb17b&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_392/Contents/Home/src.zip!/java/lang/NullPointerException.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_392/Contents/Home/src.zip!/java/util/InputMismatchException.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="customMavenHome" value="$USER_HOME$/java_tool/apache-maven-3.9.5" />
         <option name="localRepository" value="$USER_HOME$/repository" />
-        <option name="mavenHome" value="$USER_HOME$/java_tool/apache-maven-3.9.5" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
         <option name="userSettingsFile" value="$USER_HOME$/java_tool/apache-maven-3.9.5/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -51,11 +90,24 @@
     "Application.Learning.executor": "Run",
     "Application.PrimeNumberMerge.executor": "Run",
     "Application.Solution1.executor": "Run",
+    "Application.Solution10.executor": "Run",
+    "Application.Solution11.executor": "Debug",
+    "Application.Solution13.executor": "Run",
+    "Application.Solution14.executor": "Run",
+    "Application.Solution16.executor": "Run",
+    "Application.Solution17.executor": "Run",
+    "Application.Solution18.executor": "Run",
     "Application.Solution2.executor": "Run",
+    "Application.Solution7.executor": "Run",
+    "Application.Solution8.executor": "Run",
+    "Application.Solution9.executor": "Run",
     "Application.Soultion3.executor": "Run",
     "Application.selectSort.executor": "Run",
+    "Maven.solution [clean].executor": "Run",
+    "Maven.solution [compile].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -63,41 +115,44 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.2265625",
+    "project.structure.side.proportion": "0.22007722",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Add">
-    <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Add" />
+  <component name="RunManager" selected="Application.Solution18">
+    <configuration name="Solution13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution13" />
       <module name="solution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Learning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learning" />
+    <configuration name="Solution14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution14" />
       <module name="solution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumberMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumberMerge" />
+    <configuration name="Solution16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution16" />
       <module name="solution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soultion3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Soultion3" />
+    <configuration name="Solution17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution17" />
       <module name="solution" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="selectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selectSort" />
+    <configuration name="Solution18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution18" />
       <module name="solution" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,18 +160,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Add" />
-        <item itemvalue="Application.selectSort" />
-        <item itemvalue="Application.Learning" />
-        <item itemvalue="Application.PrimeNumberMerge" />
-        <item itemvalue="Application.Soultion3" />
+        <item itemvalue="Application.Solution18" />
+        <item itemvalue="Application.Solution17" />
+        <item itemvalue="Application.Solution16" />
+        <item itemvalue="Application.Solution14" />
+        <item itemvalue="Application.Solution13" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-1.8.0_392-azul-1.8.0_392-f644763e9732-4a8d90ae" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
       </set>
     </attachedChunks>
   </component>
@@ -135,6 +191,24 @@
       <workItem from="1713767395382" duration="6871000" />
       <workItem from="1717329024842" duration="881000" />
       <workItem from="1719145905445" duration="761000" />
+      <workItem from="1722606046960" duration="19000" />
+      <workItem from="1722606072248" duration="218000" />
+      <workItem from="1722606300601" duration="732000" />
+      <workItem from="1723888211882" duration="3132000" />
+      <workItem from="1723909948113" duration="182000" />
+      <workItem from="1723910136565" duration="139000" />
+      <workItem from="1723911084291" duration="3000" />
+      <workItem from="1723914698038" duration="27000" />
+      <workItem from="1723963837687" duration="9526000" />
+      <workItem from="1725421181929" duration="7910000" />
+      <workItem from="1725538253400" duration="578000" />
+      <workItem from="1726124504910" duration="1872000" />
+      <workItem from="1726734881724" duration="27000" />
+      <workItem from="1726737767908" duration="533000" />
+      <workItem from="1728798830653" duration="5607000" />
+      <workItem from="1742381848819" duration="1261000" />
+      <workItem from="1742383120097" duration="599000" />
+      <workItem from="1743497174773" duration="884000" />
     </task>
     <task id="LOCAL-00001" summary="afhkasf">
       <option name="closed" value="true" />
